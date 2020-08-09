@@ -1,0 +1,22 @@
+Upload files to your server.
+Create database and import "database"
+Edit config file in "app/config.php"
+
+ ===============================
+
+define('DB_HOST', 'enter_db_host');
+define('DB_USER', 'enter_db_user');
+define('DB_PASS', 'enter_db_pass');
+define('DB_NAME', 'enter_db_name');
+define('TIMEZONE', '');define('ENCRYPTION_KEY', 'add anything or leave empty');
+
+
+_____________________________________
+
+Admin logs:
+__________
+
+Userñame : admin@buydigitalproduct.online
+
+
+Password : buydigital
